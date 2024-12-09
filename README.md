@@ -2,3 +2,4 @@
 repositorio para rendir en diciembre 
 hola 
 
+![Descripción de la imagen](/images/picture.jpg)
